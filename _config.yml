@@ -2,7 +2,7 @@
 title: nlswale
 email: saps.laj@gmail.com
 description: everything you need
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/nlswale/" # the subpath of your site, e.g. /blog/
 url: "http://sapslaj.github.io/nlswale" # the base hostname & protocol for your site
 twitter_username: sapslaj
 github_username:  sapslaj
