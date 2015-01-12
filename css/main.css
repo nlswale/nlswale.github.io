@@ -1,0 +1,25 @@
+.container {
+  margin: 0 auto;
+  display: table;
+}
+
+.img {
+  margin: 0 auto;
+}
+
+.img-auto-width {
+  @extend .img;
+  width: auto;
+  height: 100%
+}
+
+.img-auto-height {
+  @extend .img;
+  width: auto;
+  height: 100%
+}
+
+audio {
+  display: block;
+  width: 100%;
+}
